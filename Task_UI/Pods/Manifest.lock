@@ -1,0 +1,16 @@
+PODS:
+  - WillBottomSheet (1.0.0)
+
+DEPENDENCIES:
+  - WillBottomSheet
+
+SPEC REPOS:
+  trunk:
+    - WillBottomSheet
+
+SPEC CHECKSUMS:
+  WillBottomSheet: 56c035f542a7a190c5d89fc2990516b532284808
+
+PODFILE CHECKSUM: f24a6b701d5cbfd961670c10db9aa0275f720b80
+
+COCOAPODS: 1.11.3

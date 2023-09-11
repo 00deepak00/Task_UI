@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "bottomsheetcontroller",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/naru-jpn/BottomSheetController",
+      "state" : {
+        "branch" : "main",
+        "revision" : "4794fc2741da184021cb9feda54ee188285116bd"
+      }
+    }
+  ],
+  "version" : 2
+}
